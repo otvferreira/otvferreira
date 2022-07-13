@@ -1,4 +1,4 @@
-#  <h1 align="center"> System.out.println("Hello World!");  :rocket: <h1/> <br/><br/>
+#  <h1 align="center"> System.out.println("Hello World!");  :rocket: <h1/> <br/>
 
 ## Olá! Meu nome é Otávio Ferreira e este é meu GitHub!
 
