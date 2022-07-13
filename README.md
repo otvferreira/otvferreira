@@ -1,4 +1,19 @@
-## Olá! Meu nome é Otávio Ferreira, e este é meu perfil do GitHub! :rocket: :smile:
+# <h1 align="center"> Olá! Meu nome é Otávio Ferreira  :rocket: </h1>
+
+
+
+
+
+
+
+## Um pouco sobre mim: 
+
+
+
+
+###  :hatching_chick: Tenho 23 anos, moro em Patrocínio-MG e trabalho como Analista de Desenvolvimento na empresa Zix Informática. 
+###### :star: Profissionalmente participo de debates, soluções e desenvolvimento de aplicações para facilitar a gestão de empresas de pequeno e médio porte, assim, adquiri facilidade de comunicação com técnicos de outras áreas.  :smile:
+######
 
 
 
