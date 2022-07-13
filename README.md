@@ -11,8 +11,8 @@
 <br/>
 
 ### Tecnologias e Ferramentas:
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" title=GIT /><code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title=Java /><code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" title=GIT /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title=Java />
+
         
           
 
