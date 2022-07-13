@@ -4,9 +4,9 @@
 
 ### Um pouco sobre mim: 
 
-#####  :hatching_chick: Tenho 23 anos;
-#####  :house: Moro em Patrocínio-MG; 
-#####  :office: Trabalho como Analista de Desenvolvimento na empresa [Zix Informática](https://zixinformatica.com);
+####  :hatching_chick: Tenho 23 anos;
+####  :house: Moro em Patrocínio-MG; 
+####  :office: Trabalho como Analista de Desenvolvimento na empresa [Zix Informática](https://zixinformatica.com);
 > ##### Profissionalmente participo de debates, soluções e desenvolvimento de aplicações para facilitar a gestão de empresas de pequeno e médio porte, assim, consegui aprimorar minha capacidade analítica e adquiri facilidade em me comunicar com técnicos de outras áreas!!
 <br/>
 
