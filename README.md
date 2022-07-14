@@ -12,6 +12,13 @@
 
 ### Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title=Java /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30" title=GIT /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title=MySQL /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="30" height="30" title=IntelliJ />
+<br/><br/>
+
+<h1 align="center"><div>
+<a href="https://github.com/otvferreira">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvferreira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=otvferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div><h1 />
           
           
 
