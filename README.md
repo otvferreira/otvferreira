@@ -1,4 +1,4 @@
-#  <h1 align="center"> System.out.println("Hello World!");  :rocket: <h1/> <br/>
+#  <div align="center"> System.out.println("Hello World!");  :rocket: </div><br/>
 
 ## Olá! Meu nome é Otávio Ferreira e este é meu GitHub!
 
@@ -14,12 +14,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title=Java /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30" title=GIT /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title=MySQL /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="30" height="30" title=IntelliJ />
 <br/><br/>
 
-#### <h1 align="center"> Contatos <h1 />
-<h1 align="center"><div>
+### <div align="center">Contatos</div>
+<div align="center">
 <a href="https://www.linkedin.com/in/otvferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://instagram.com/otvferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "ottvferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div><h1 />
+</div>
 
 <h1 align="center"><div>
 <a href="https://github.com/otvferreira">
