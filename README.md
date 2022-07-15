@@ -1,6 +1,6 @@
 #  <div align="center"> System.out.println("Hello World!");  :rocket: </div><br/>
 
-## Olá! Meu nome é Otávio Ferreira e este é meu GitHub!
+## Meu nome é Otávio Ferreira e este é meu GitHub!
 
 ### Um pouco sobre mim: 
 
