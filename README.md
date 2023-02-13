@@ -4,9 +4,9 @@
 
 ### Um pouco sobre mim: 
 
-####  :hatching_chick: Tenho 23 anos;
+####  :hatching_chick: Tenho 24 anos;
 ####  :house: Moro em Patrocínio-MG; 
-####  :office: Trabalho como Analista de Desenvolvimento na empresa [Zix Informática](https://zixinformatica.com);
+####  :office: Trabalho como Assistente de Sistemas na empresa [Expocaccer](https://expocaccer.com.br);
 <br/>
 
 ### Tecnologias e Ferramentas:
