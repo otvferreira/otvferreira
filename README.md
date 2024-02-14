@@ -6,7 +6,7 @@
 
 ####  :hatching_chick: Tenho 25 anos;
 ####  :house: Moro em Patrocínio-MG; 
-####  :office: Trabalho como Assistente de Sistemas na empresa [Expocaccer](https://expocaccer.com.br);
+####  :office: Trabalho como Analista de Sistemas na empresa [Expocacer](https://expocaccer.com.br);
 <br/>
 
 ### Tecnologias e Ferramentas:
