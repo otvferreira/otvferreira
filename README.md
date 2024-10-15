@@ -5,7 +5,7 @@
 ### Um pouco sobre mim: 
 
 ####  :hatching_chick: Tenho 26 anos;
-####  :office: Trabalho como Desenvolvedor FullStack na empresa [Expocacer](https://expocaccer.com.br);
+####  :office: Trabalho como Desenvolvedor FullStack na empresa [Grão Direto](https://graodireto.com.br);
 <br/>
 
 ### Tecnologias e Ferramentas:
