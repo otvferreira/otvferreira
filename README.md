@@ -5,7 +5,7 @@
 ### Um pouco sobre mim: 
 
 ####  :hatching_chick: Tenho 27 anos;
-####  :office: Trabalho como Desenvolvedor FullStack na Cooperativa de Cafeicultores do Cerrado - [Expocacer](https://expocacer.com.br);
+####  :office: Trabalho como Desenvolvedor FullStack na [Expocacer](https://expocacer.com.br) - Cooperativa de Cafeicultores do Cerrado;
 <br/>
 
 ### Tecnologias e Ferramentas:
