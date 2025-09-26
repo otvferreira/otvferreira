@@ -22,11 +22,11 @@
 
 <h1 align="center"><div>
 <a href="https://github.com/otvferreira">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvferreira&layout=compact&langs_count=7&theme=github_dark"/>
-</div><h1 />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvferreira&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=otvferreira&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-          
+<h1 />
           
 
         
