@@ -1,6 +1,6 @@
 #  <div align="center"> fmt.Println("Hello World!");  :rocket: </div><br/>
 
-## Meu nome é Otávio Ferreira e este é meu GitHub!
+## Meu nome é Otávio e este é meu GitHub!
 
 ### Um pouco sobre mim: 
 
