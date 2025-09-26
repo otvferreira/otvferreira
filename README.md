@@ -20,12 +20,13 @@
 <a href = "mailto:ottvferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<h1 align="center"><div>
+<h1 align="center">
+<div>
 <a href="https://github.com/otvferreira">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvferreira&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=otvferreira&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+</div>
 <h1 />
           
 
