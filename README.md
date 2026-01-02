@@ -1,33 +1,10 @@
-#  <div align="center"> fmt.Println("Hello World!");  :rocket: </div><br/>
-
-## Meu nome é Otávio e este é meu GitHub!
-
-### Um pouco sobre mim: 
+## Hi there 👋
 
 ####  :hatching_chick: Tenho 27 anos;
 ####  :books: Tecnólogo em Análise e Desenvolvimento de Sistemas;
 ####  :office: Trabalho como Desenvolvedor FullStack na [Expocacer - Cooperativa de Cafeicultores do Cerrado](https://expocacer.com.br);
+####  :office: Atualmente também estou correndo atrás de um projeto chamado [Granofy](https://granofy.com.br);
 <br/>
-
-### <div align="center">Contatos</div>
-<div align="center">
-<a href="https://www.linkedin.com/in/otvferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/otvferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:ottvferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
-
-<h1 align="center">
-<div>
-<a href="https://github.com/otvferreira">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvferreira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<h1 />
-          
-
-        
-          
-
-
 
 <!--
 **otvferreira/otvferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
