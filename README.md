@@ -3,7 +3,7 @@
 ####  :hatching_chick: Tenho 27 anos;
 ####  :books: Tecnólogo em Análise e Desenvolvimento de Sistemas;
 ####  :office: Trabalho como Desenvolvedor FullStack na [Expocacer - Cooperativa de Cafeicultores do Cerrado](https://expocacer.com.br);
-####  :office: Também estou criando um projeto chamado [Granofy](https://granofy.com.br);
+####  :office: Também estou criando um projeto chamado [FerretSearch](https://github.com/ferretsearch);
 <br/>
 
 <!--
