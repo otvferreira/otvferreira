@@ -3,7 +3,7 @@
 ####  :hatching_chick: Tenho 27 anos;
 ####  :books: Tecnólogo em Análise e Desenvolvimento de Sistemas;
 ####  :office: Trabalho como Desenvolvedor FullStack na [Expocacer - Cooperativa de Cafeicultores do Cerrado](https://expocacer.com.br);
-####  :office: Também estou criando alguns projetos chamados [Capytrace](https://github.com/capytrace), [Granofy](https://granofy.com.br/) e [Granocer](https://github.com/granocer);
+####  :office: Também estou criando alguns projetos: [Capytrace](https://github.com/capytrace), [Granofy](https://granofy.com.br/) e [Granocer](https://github.com/granocer);
 <br/>
 
 <!--
